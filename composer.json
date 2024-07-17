@@ -1,0 +1,25 @@
+{
+  "name": "fromholdio/silverstripe-gridfield-configurable-sort-headers",
+  "type": "silverstripe-vendormodule",
+  "description": "Allows excluding named column headers from being sortable",
+  "license": "BSD-3-Clause",
+  "keywords": ["silverstripe"],
+  "homepage": "https://github.com/fromholdio/silverstripe-gridfield-configurable-sort-headers",
+  "support": {
+    "issues": "https://github.com/fromholdio/silverstripe-gridfield-configurable-sort-headers/issues"
+  },
+  "authors": [{
+    "name": "Luke Fromhold",
+    "homepage": "https://fromhold.io"
+  }],
+  "require": {
+    "silverstripe/cms": "^5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fromholdio\\GridFieldConfigurableSortHeaders\\": "src/"
+    }
+  },
+  "prefer-stable": true,
+  "minimum-stability": "dev"
+}

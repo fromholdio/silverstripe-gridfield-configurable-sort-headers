@@ -13,7 +13,7 @@
     "homepage": "https://fromhold.io"
   }],
   "require": {
-    "silverstripe/cms": "^5.0"
+    "silverstripe/cms": "^5.0 || ^6.0"
   },
   "autoload": {
     "psr-4": {

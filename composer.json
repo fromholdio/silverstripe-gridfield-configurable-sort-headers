@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Fromholdio\\GridFieldConfigurableSortHeaders\\": "src/"
+      "Fromholdio\\GridFieldConfigurableSortHeader\\": "src/"
     }
   },
   "prefer-stable": true,
